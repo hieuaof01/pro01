@@ -1299,3 +1299,10 @@ i.home-product-item__like-icon-fill{
 .footer__text__body--title:hover{
     color: var(--primary-color);
 }
+
+.footer__text__body--title__link{
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 548;
+    font-size: 1.6rem;
+}
