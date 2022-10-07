@@ -139,4 +139,34 @@
             top:var(--header-height);
         }
     }
+
+/* footer */
+
+    .footer_body__list {
+        padding: 15px 30px;
+        width:100%;
+        min-height:150px;
+        display:unset;
+        line-height: 1rem;
+    }
+    .footer__list-item{
+        text-align:center;
+        display:block;
+    }
+
+    /* ?cai thu 2  */
+    .footer_body__list_2{
+        display:unset;
+    }
+    .footer_class_img-2{
+        margin: 0 auto;
+        display:block;
+    }
+    .footer__title__body__01{
+        padding : 0 10px;
+        line-height:2rem;
+    }
+    .footer__text__body--title:last-child{
+        margin-bottom:0;
+    }
 }

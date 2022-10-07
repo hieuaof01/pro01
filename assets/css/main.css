@@ -1259,6 +1259,9 @@ i.home-product-item__like-icon-fill{
     color:#737373;
 
 }
+.footer__list-item:hover{
+    color: var(--primary-color);
+}
 .footer_body__list_2{
     display:flex;
     justify-content:center;
@@ -1269,6 +1272,9 @@ i.home-product-item__like-icon-fill{
     /* max-height: 80px; */
     padding : 15px 28px;
     display:block;
+}
+.footer_class_img-2:hover{
+    opacity: 0.89;
 }
 .footer__text_2{
     padding:20px 0 15px 0 ;
@@ -1283,11 +1289,13 @@ i.home-product-item__like-icon-fill{
 }
 .footer__title__body__01{
     font-size: 1.5rem;
-    /* color:var(--text-color); */
     color: rgba(0,0,0,.65);
     text-align: center;
     padding-bottom: 20px;
 }
 .footer__text__body--title{
     margin : 4px;
+}
+.footer__text__body--title:hover{
+    color: var(--primary-color);
 }
